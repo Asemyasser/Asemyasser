@@ -14,8 +14,8 @@
 
 
 <div align="left">
-- 🏢 I'm a Front-end developer.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I'm a Front-end developer.<be/>
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.<be/>
 - 💬 Ask me about my experience with HTML, CSS, JavaScript, ReactJS, or anything related to Front-end development.
 </div>
 
