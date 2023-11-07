@@ -13,11 +13,11 @@
 
 
 
-<div align="left">
-- 🏢 I'm a Front-end developer.<br/>
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.<br/>
+
+- 🏢 I'm a Front-end developer.
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with HTML, CSS, JavaScript, ReactJS, or anything related to Front-end development.
-</div>
+
 
 ### Connect with Me :
 
