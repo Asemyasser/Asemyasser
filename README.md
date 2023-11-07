@@ -1,4 +1,5 @@
 
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3 align="center">
   Welcome to Asem Yasser's profile!
@@ -11,7 +12,6 @@
 </p> 
 
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <div align="left">
 - 🏢 I'm a Front-end developer.
